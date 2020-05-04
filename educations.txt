@@ -1,0 +1,7 @@
+EDUCATION = [
+		‘AA’,’ A.A.’,’AS’,’A.S.’,’BEP’,’CAP’,’Dip.Arts’,’Dip.Lang.Stud.’,’Dip.Lang’,’Dip.Soc.Sc.’,’Dip.Ed’,’Dip.Mus.’
+		‘MB’,’M.B.’,’LLB’, ‘LL.B’, ’BTech’, ‘B.Tech’, ‘BSA’, ‘BMath’, ‘B.Math’, ‘BLit’, ‘B.Lit.’, ‘BEng’, ‘B.Eng.’, 
+		‘BE ‘, ‘B.E’ ,’Bed’, ‘B.Ed.’,’BEC’,’B.E-COM.’,BDSc’,’B.D.Sc.’,’BDS,’B.D.S.’,’BChD’,’B.Ch.D.’,’BDent’,’B.Dent.’,
+		’BComm,’B.Comm.’,’BCom’,’B.Com.’,’BBA’,’B.B.A.’,’BArch’,’B.Arch.’,’BAcy’,’B.Acy.’,’M.Arch.’,’MBA’,’M.B.A.’,
+		’ MTech’,’M.Tech.’, ‘PhD’, ‘Ph.D.’, ‘DPhil’, ‘D.Phil.’, ‘DPh’, ‘D.Ph.’
+		]
